@@ -1,5 +1,3 @@
-//var currentTab;
-//var currentBookmark;
 var vlcs_adress;
 
 function sendURLtoVLC(tabs) {
